@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="JOSM GPX export" xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="11.3417052" minlon="-85.8904873" maxlat="11.5782316" maxlon="-83.8702193"/>
+  </metadata>
+  <trk>
+    <trkseg>
+      <trkpt lat="11.556666461865621" lon="-83.93138591201519"/>
+      <trkpt lat="11.578231558280745" lon="-83.92873805734224"/>
+      <trkpt lat="11.571335462494561" lon="-83.87021928921976"/>
+      <trkpt lat="11.549769834958568" lon="-83.87286714389273"/>
+      <trkpt lat="11.556666461865621" lon="-83.93138591201519"/>
+    </trkseg>
+  </trk>
+  <trk>
+    <trkseg>
+      <trkpt lat="11.382344668325263" lon="-85.89048726741625"/>
+      <trkpt lat="11.397795778382076" lon="-85.87489491618562"/>
+      <trkpt lat="11.357158523274796" lon="-85.83299333311248"/>
+      <trkpt lat="11.341705209347515" lon="-85.84858568434312"/>
+      <trkpt lat="11.382344668325263" lon="-85.89048726741625"/>
+    </trkseg>
+  </trk>
+</gpx>
