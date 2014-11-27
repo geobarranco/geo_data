@@ -921,7 +921,11 @@
           ]
         ]
       },
-      "properties": {}
+      "properties": {
+        "title": "Ruta del canal",
+        "stroke-width": 3,
+        "stroke": "#ff0000"
+      }
     },
     {
       "type": "Feature",
@@ -934,7 +938,8 @@
       },
       "properties": {
         "marker-symbol": "ferry",
-        "title": "Puerto Brito"
+        "title": "Puerto Brito",
+        "marker-color": "#ff0000"
       }
     },
     {
@@ -949,6 +954,7 @@
       "properties": {
         "marker-symbol": "ferry",
         "title": "Puerto Punta Aguila"
+        "marker-color": "#ff0000"
       }
     },
     {
